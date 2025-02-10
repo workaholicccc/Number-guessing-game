@@ -4,3 +4,5 @@ Steps to run this project:
 1)clone this repository: https://github.com/workaholicccc/Number-guessing-game/tree/main
 2)Navigate to the project directory: cd Number-guessing-game
 3)Run the python script: python number_guessing.py
+
+link of the project: https://roadmap.sh/projects/number-guessing-game
